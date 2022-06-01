@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="id">ID:</string>
+    <string name="name">Имя</string>
+    <string name="phone">Номер телефона</string>
+    <string name="birthdate">Дата рождения</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="new_user">Новый пользователь</string>
+    <string name="add">Добавить</string>
+</resources>
